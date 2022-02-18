@@ -22,3 +22,4 @@ for k in range(len(vetor_aux)):
         
 
 print(pares_anagramas)
+print(len(pares_anagramas))

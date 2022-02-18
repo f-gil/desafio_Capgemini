@@ -2,7 +2,7 @@
 
 Aqui estão minhas soluções para os 3 desafios propostos pela [Academia Capgemini](https://capgemini.proway.com.br).
 
-Os enunciados estão neste [documento](https://docs.google.com/document/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/preview?pru=AAABfyi6JMQ*rjlGHuDSt9us910YPxCYGg)
+Os enunciados estão neste [documento](https://docs.google.com/document/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/preview?pru=AAABfyi6JMQ*rjlGHuDSt9us910YPxCYGg).
 
 ## 🚀 Começando
 
